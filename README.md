@@ -71,9 +71,9 @@
 <span>
 <img src="https://shields.io/badge/hardhat-545454?style=for-the-badge&logo=data" />
 </span>
+
 <span>
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge
-" />
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
 </span>
 
 ## FrontEnd
