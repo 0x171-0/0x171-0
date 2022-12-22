@@ -76,6 +76,10 @@
 <span>
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
 </span>
+<span>
+<img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white
+" />
+</span>
 
 ## FrontEnd
 <span>
@@ -86,6 +90,14 @@
  </span>
  <span>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ </span>
+
+## Tools
+<span>
+ <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+ </span>
+<span>
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
  </span>
 
 
