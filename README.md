@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1 >Hi 👋, I'm Mason</h1>
-  <p>A Backend developer with wide range of interest. Check my work in the repositories and notes on Blogger. Welcome to any feedback. 🤗 </p>
+  <div width="50%">
+  I am a backend developer with a passion for learning and exploring new technologies. My wide range of interests allows me to bring a diverse perspective to my work. My repositories and Blogger showcase some of my past work and notes. I welcome any feedback or suggestions you may have.🤗
+  </div>
   <span>
   <a href="https://tech0x171.blogspot.com/" >
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
