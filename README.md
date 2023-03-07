@@ -21,12 +21,7 @@
 <span>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </span>
-<span>
- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</span>
-<span>
- <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
-</span>
+
 
 #### Framwork
 
@@ -62,6 +57,24 @@
 <span>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </span>
+
+
+#### Test
+<span>
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</span>
+<span>
+ <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
+</span>
+
+#### Other
+<span>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</span>
+<span>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</span>
+
 
 
 ## Blockchain
@@ -105,6 +118,11 @@
 ## Repository Status
 <p align="left">
   <!-- <img width="49%" align="left" alt="Github Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x171-0&theme=tokyonight" />   -->
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=0x171-0&theme=tokyonight&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=0x171-0&theme=tokyonight&layout=compact)
+
+
+
   <img width="42%" align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x171-0&theme=tokyonight" />  <img width="42%" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x171-0&show_icons=true&hide_border=true&theme=tokyonight" />
 
   <span>
@@ -114,9 +132,9 @@
 
 
 <!--
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on smart contracts...
+- 🌱 I’m currently learning DeFi and smart contracts security...
 - 💬 Ask me about ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
