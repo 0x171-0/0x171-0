@@ -94,6 +94,9 @@
 <span>
 <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </span>
+<span>
+<img src="[https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)" />
+</span>
 
 ## FrontEnd
 <span>
