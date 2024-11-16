@@ -22,12 +22,6 @@
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </span>
 
-## Cloud
-<span>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</span>
-
-
 #### Framwork
 
 <span>
@@ -51,7 +45,15 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </span>
 
-#### DevOps
+## Cloud
+<span>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</span>
+
+## DevOps
 
 <span>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -62,7 +64,9 @@
 <span>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </span>
-
+<span>
+<img src="https://img.shields.io/badge/Podman-89A1DB?style=for-the-badge&logo=podman&logoColor=white" />
+</span>
 
 #### Test
 <span>
@@ -116,6 +120,9 @@
   <span>
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  </span>
+  <span>
+ <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</span>
 
 ## Tools
 <span>
@@ -134,8 +141,10 @@
 
 
 
-  <img width="42%" align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x171-0&theme=tokyonight" />  <img width="42%" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x171-0&show_icons=true&hide_border=true&theme=tokyonight" />
-
+  <img width="42%" align="center" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0x171-0&theme=tokyonight" />  
+<!--  
+  <img width="42%" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=0x171-0&show_icons=true&hide_border=true&theme=tokyonight" />
+-->
   <span>
   <img src="https://komarev.com/ghpvc/?username=0x171-0&label=Profile%20views&color=0080ff&&style=flat" alt="0x171-0" />
   </span>
