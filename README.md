@@ -3,10 +3,13 @@
   <div width="50%">
   I am a backend developer with a passion for learning and exploring new technologies. My wide range of interests allows me to bring a diverse perspective to my work. My repositories and Blogger showcase some of my past work and notes. I welcome any feedback or suggestions you may have.🤗
   </div>
+  </br>
   <span>
-  <a href="https://tech0x171.blogspot.com/" >
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/PMI_ACP-Certified-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
+<img src="https://img.shields.io/badge/PMI_PBA-Certified-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
+<img src="https://img.shields.io/badge/PMI_PMP-Certified-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
+<img src="https://img.shields.io/badge/a|CEA-Software_Architect-0052CC?style=for-the-badge&logo=diagram&logoColor=white" />
+
   </span>
 </div>
 
