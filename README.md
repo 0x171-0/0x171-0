@@ -5,9 +5,9 @@
   </div>
   </br>
   <span>
-  <img src="https://img.shields.io/badge/PMI_ACP-Certified-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
-<img src="https://img.shields.io/badge/PMI_PBA-Certified-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
-<img src="https://img.shields.io/badge/PMI_PMP-Certified-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
+  <img src="https://img.shields.io/badge/PMI-ACP-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
+<img src="https://img.shields.io/badge/PMI-PBA-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
+<img src="https://img.shields.io/badge/PMI-PMP-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
 <img src="https://img.shields.io/badge/a|CEA-Software_Architect-0052CC?style=for-the-badge&logo=diagram&logoColor=white" />
 
   </span>
