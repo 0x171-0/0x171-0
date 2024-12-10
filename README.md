@@ -5,6 +5,7 @@
   </div>
   </br>
   <span>
+      <img src="https://img.shields.io/badge/AWS-SAA-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
   <img src="https://img.shields.io/badge/PMI-ACP-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
 <img src="https://img.shields.io/badge/PMI-PBA-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
 <img src="https://img.shields.io/badge/PMI-PMP-0052CC?style=for-the-badge&logo=projectmanagement&logoColor=white" />
